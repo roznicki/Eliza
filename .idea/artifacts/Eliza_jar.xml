@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Eliza:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eliza_jar</output-path>
+    <root id="archive" name="Eliza.jar">
+      <element id="module-output" name="Eliza" />
+    </root>
+  </artifact>
+</component>
